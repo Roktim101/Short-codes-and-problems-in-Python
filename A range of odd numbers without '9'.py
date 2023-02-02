@@ -10,4 +10,3 @@ while i < n:
     if i <= n:
         print(i, end=" ")
     i += 2
-print()
