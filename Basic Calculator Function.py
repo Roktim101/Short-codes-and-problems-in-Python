@@ -1,7 +1,7 @@
 try:
     n1 = float(input('First Value: '))
     op = input('(+, -, *, /, //, %, **)\nOperator:  ')
-    n2 = float(input('n2: '))
+    n2 = float(input('Second Value: '))
 
     if op == '+':
         print(n1 + n2)
