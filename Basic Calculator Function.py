@@ -25,6 +25,6 @@ except TypeError:
 except ValueError:
     print('Invalid Value!')
 except OverflowError:
-    print('Result is too large!')
+    print('Oops! Result is too large!')
 except ZeroDivisionError:
     print('Math Error!')
