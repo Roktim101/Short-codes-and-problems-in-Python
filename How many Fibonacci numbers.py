@@ -6,6 +6,6 @@ try:
     else:
         for i in range(n):
             print(a, end=' ')
-            a, b = b, a + b
+            a, b = b, a + b     # used tuple unpacking
 except ValueError:
     print('Invalid value!')
