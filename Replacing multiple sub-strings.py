@@ -7,3 +7,6 @@ for old_substring, new_substring in replacements.items():
     string = string.replace(old_substring, new_substring)
 
 print(string)
+
+# CTRL + r: Replace function in PyCharm
+# CTRL + f: Find function in PyCharm
