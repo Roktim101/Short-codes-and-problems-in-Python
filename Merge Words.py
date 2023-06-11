@@ -19,4 +19,4 @@ word_1 = 'abcde'
 word_2 = 'xyz'
 
 result = merge_words(word_1, word_2)
-print(result)
+print(result)   # result = 'axbyczde'
