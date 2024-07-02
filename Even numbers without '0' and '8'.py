@@ -6,6 +6,9 @@ for i in range(a):
     if i % 2 == 0 and "0" not in str(i) and "8" not in str(i):
         print(i, end=' ')
 
+print()
+
+
 # another way 
 
 a = int(input('Range: '))
