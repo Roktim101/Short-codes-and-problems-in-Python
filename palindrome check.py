@@ -5,5 +5,5 @@ def is_palindrome(s):
     return s == s[::-1]
 
 
-string = "1A man, a plan, a canal: Panama1!"
+string = "1 A man, a plan, a canal: Panama 1!"
 print(is_palindrome(string))
